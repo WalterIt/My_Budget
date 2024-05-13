@@ -2,6 +2,6 @@ import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
-    <Button  >Jesus Saves!</Button>
+    <p>This is an Authenticated Route!</p>
   );
 }
